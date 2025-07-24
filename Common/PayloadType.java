@@ -1,4 +1,4 @@
-
+package Common;
 
 public enum PayloadType {
     CLIENT_CONNECT, // client requesting to connect to server (passing of initialization data

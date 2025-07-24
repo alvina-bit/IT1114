@@ -1,4 +1,4 @@
-
+package Exceptions;
 
 public class RoomNotFoundException extends CustomIT114Exception {
 
