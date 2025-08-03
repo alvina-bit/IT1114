@@ -1,11 +1,21 @@
 package Common;
 
 import java.io.Serializable;
+import java.util.List;
+
+
+
+
+
+
 
 public class Payload implements Serializable {
     private PayloadType payloadType;
     private long clientId;
     private String message;
+    private String choice;
+    private List<PlayerData> playerList;
+
 
     /**
      * @return the payloadType
@@ -48,6 +58,28 @@ public class Payload implements Serializable {
     public void setMessage(String message) {
         this.message = message;
     }
+    public String getChoice() {
+    return choice;
+}
+
+public void setChoice(String choice) {
+    this.choice = choice;
+}
+
+/**
+ * @return the playerList
+ */
+public List<PlayerData> getPlayerList() {
+    return playerList;
+}
+
+/**
+ * @param playerList the playerList to set
+ */
+public void setPlayerList(List<PlayerData> playerList) {
+    this.playerList = playerList;
+}
+
 
     @Override
     public String toString() {

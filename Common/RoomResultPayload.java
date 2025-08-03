@@ -5,6 +5,7 @@ import java.util.List;
 
 public class RoomResultPayload extends Payload {
     private List<String> rooms = new ArrayList<String>();
+    private List<User> players = new ArrayList<User>();
 
     public RoomResultPayload() {
         setPayloadType(PayloadType.ROOM_LIST);
@@ -12,6 +13,14 @@ public class RoomResultPayload extends Payload {
 
     public List<String> getRooms() {
         return rooms;
+    }
+
+      public List<User> getPlayers() {
+        return players;
+    }
+
+    public void setPlayers(List<User> players) {
+        this.players = players;
     }
 
     public void setRooms(List<String> rooms) {
@@ -23,3 +32,7 @@ public class RoomResultPayload extends Payload {
         return super.toString() + "Rooms [" + String.join(",", rooms) + "]";
     }
 }
+// ... other imports and class definition
+
+
+   

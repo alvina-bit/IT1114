@@ -1,0 +1,116 @@
+07/31/2025 21:22:15 [Server.Server] ([32mINFO[0m):
+> Server Starting
+07/31/2025 21:22:15 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Listening on port 3000[0m
+07/31/2025 21:22:15 [Server.Server] ([31mSEVERE[0m):
+> [0;31mError accepting connection[0m
+07/31/2025 21:22:15 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Closing server socket[0m
+07/31/2025 21:22:15 [Server.Server] ([33mWARNING[0m):
+> Server Stopped
+07/31/2025 21:22:15 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: JVM is shutting down. Perform cleanup tasks.[0m
+07/31/2025 21:22:27 [Server.Server] ([32mINFO[0m):
+> Server Starting
+07/31/2025 21:22:27 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Listening on port 3000[0m
+07/31/2025 21:22:27 [Server.Server] ([31mSEVERE[0m):
+> [0;31mError accepting connection[0m
+07/31/2025 21:22:27 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Closing server socket[0m
+07/31/2025 21:22:27 [Server.Server] ([33mWARNING[0m):
+> Server Stopped
+07/31/2025 21:22:27 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: JVM is shutting down. Perform cleanup tasks.[0m
+07/31/2025 21:23:32 [Server.Server] ([32mINFO[0m):
+> Server Starting
+07/31/2025 21:23:32 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Listening on port 3000[0m
+07/31/2025 21:23:32 [Server.Server] ([31mSEVERE[0m):
+> [0;31mError accepting connection[0m
+07/31/2025 21:23:32 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Closing server socket[0m
+07/31/2025 21:23:32 [Server.Server] ([33mWARNING[0m):
+> Server Stopped
+07/31/2025 21:23:32 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: JVM is shutting down. Perform cleanup tasks.[0m
+08/02/2025 18:24:12 [Server.Server] ([32mINFO[0m):
+> Server Starting
+08/02/2025 18:24:12 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Listening on port 3000[0m
+08/02/2025 18:24:12 [Server.Server] ([31mSEVERE[0m):
+> [0;31mError accepting connection[0m
+08/02/2025 18:24:12 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Closing server socket[0m
+08/02/2025 18:24:12 [Server.Server] ([33mWARNING[0m):
+> Server Stopped
+08/02/2025 18:24:12 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: JVM is shutting down. Perform cleanup tasks.[0m
+08/02/2025 19:04:30 [Server.Server] ([32mINFO[0m):
+> Server Starting
+08/02/2025 19:04:30 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Listening on port 3000[0m
+08/02/2025 19:04:30 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: Created[0m
+08/02/2025 19:04:30 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Created new Room lobby[0m
+08/02/2025 19:04:30 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Waiting for next client[0m
+08/02/2025 19:12:44 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Client connected[0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[-1]: ServerThread created[0m
+08/02/2025 19:12:44 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: Waiting for next client[0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[-1]: Thread starting[0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[-1]: Received from my client: Payload[CLIENT_CONNECT] Client Id [0] Message: [null] ClientName: [berr][0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[CLIENT_ID] Client Id [1] Message: [null] ClientName: [berr][0m
+08/02/2025 19:12:44 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: *berr#1 initialized*[0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[ROOM_JOIN] Client Id [-1] Message: [null] ClientName: [null][0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[ROOM_JOIN] Client Id [1] Message: [null] ClientName: [berr][0m
+08/02/2025 19:12:44 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [Room[lobby] You joined the room][0m
+08/02/2025 19:12:44 [Server.Server] ([32mINFO[0m):
+> [0;33mServer: *berr#1 added to Lobby*[0m
+08/02/2025 19:12:59 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [Alice][0m
+08/02/2025 19:12:59 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: Alice[0m
+08/02/2025 19:12:59 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: Alice][0m
+08/02/2025 19:13:50 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [hi][0m
+08/02/2025 19:13:50 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: hi[0m
+08/02/2025 19:13:50 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: hi][0m
+08/02/2025 19:15:29 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (pending)                 Carol (u03) - Points 50 (Eliminated)][0m
+08/02/2025 19:15:29 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (pending)                 Carol (u03) - Points 50 (Eliminated)[0m
+08/02/2025 19:15:29 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (pending)                 Carol (u03) - Points 50 (Eliminated)][0m
+08/02/2025 19:17:40 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (Pending)                 Carol (u03) - Points: 75                         Dave (u04) - Points: 50 (Eliminated)][0m
+08/02/2025 19:17:40 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (Pending)                 Carol (u03) - Points: 75                         Dave (u04) - Points: 50 (Eliminated)[0m
+08/02/2025 19:17:40 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (Pending)                 Carol (u03) - Points: 75                         Dave (u04) - Points: 50 (Eliminated)][0m
+08/02/2025 20:24:06 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [Scores:                                          Alice (u01) - 100                                Bob (u02) - 75                                   Carol (u03) - 75                                 Dave (04) - 50][0m
+08/02/2025 20:24:06 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: Scores:                                          Alice (u01) - 100                                Bob (u02) - 75                                   Carol (u03) - 75                                 Dave (04) - 50[0m
+08/02/2025 20:24:06 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: Scores:                                          Alice (u01) - 100                                Bob (u02) - 75                                   Carol (u03) - 75                                 Dave (04) - 50][0m
+08/02/2025 22:11:01 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Received from my client: Payload[MESSAGE] Client Id [0] Message: [git add][0m
+08/02/2025 22:11:01 [Server.Room] ([32mINFO[0m):
+> [0;35mRoom[lobby]: sending message to 1 recipients: berr#1: git add[0m
+08/02/2025 22:11:01 [Server.ServerThread] ([32mINFO[0m):
+> [0;36mThread[1]: Sending to client: Payload[MESSAGE] Client Id [1] Message: [berr#1: git add][0m

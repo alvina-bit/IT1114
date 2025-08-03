@@ -1,0 +1,156 @@
+07/31/2025 21:23:50 [Client.Client] ([32mINFO[0m):
+> Client Created
+07/31/2025 21:23:50 [Client.Client] ([32mINFO[0m):
+> Client starting
+07/31/2025 21:23:50 [Client.Client] ([32mINFO[0m):
+> Waiting for input
+07/31/2025 21:24:18 [Client.Client] ([32mINFO[0m):
+> [0;33mName set to al[0m
+07/31/2025 21:24:25 [Client.Client] ([32mINFO[0m):
+> Client connected
+07/31/2025 21:24:25 [Client.Client] ([32mINFO[0m):
+> [0;32mConnected[0m
+07/31/2025 21:24:25 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] You joined the room[0m
+07/31/2025 21:24:32 [Client.Client] ([33mWARNING[0m):
+> Connection dropped
+07/31/2025 21:24:32 [Client.Client] ([32mINFO[0m):
+> Closing output stream
+07/31/2025 21:24:32 [Client.Client] ([32mINFO[0m):
+> Closing input stream
+07/31/2025 21:24:32 [Client.Client] ([32mINFO[0m):
+> Closing connection
+07/31/2025 21:24:32 [Client.Client] ([32mINFO[0m):
+> Closed Socket
+07/31/2025 21:24:32 [Client.Client] ([32mINFO[0m):
+> listenToServer thread stopped
+07/31/2025 21:24:40 [Client.Client] ([32mINFO[0m):
+> Client connected
+07/31/2025 21:24:40 [Client.Client] ([33mWARNING[0m):
+> [0;33mClient ID already set, this shouldn't happen[0m
+07/31/2025 21:24:40 [Client.Client] ([32mINFO[0m):
+> [0;32mConnected[0m
+07/31/2025 21:24:40 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] You joined the room[0m
+07/31/2025 21:24:45 [Client.Client] ([33mWARNING[0m):
+> Connection dropped
+07/31/2025 21:24:45 [Client.Client] ([32mINFO[0m):
+> Closing output stream
+07/31/2025 21:24:45 [Client.Client] ([32mINFO[0m):
+> Closing input stream
+07/31/2025 21:24:45 [Client.Client] ([32mINFO[0m):
+> Closing connection
+07/31/2025 21:24:45 [Client.Client] ([32mINFO[0m):
+> Closed Socket
+07/31/2025 21:24:45 [Client.Client] ([32mINFO[0m):
+> listenToServer thread stopped
+07/31/2025 21:24:48 [Client.Client] ([33mWARNING[0m):
+> Not connected to server (hint: type `/connect host:port` without the quotes and replace host/port with the necessary info)
+07/31/2025 21:24:56 [Client.Client] ([32mINFO[0m):
+> Client connected
+07/31/2025 21:24:56 [Client.Client] ([33mWARNING[0m):
+> [0;33mClient ID already set, this shouldn't happen[0m
+07/31/2025 21:24:56 [Client.Client] ([32mINFO[0m):
+> [0;32mConnected[0m
+07/31/2025 21:24:56 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] You joined the room[0m
+07/31/2025 21:25:09 [Client.Client] ([32mINFO[0m):
+> [0;34mal#53: /pick r[0m
+07/31/2025 21:25:23 [Client.Client] ([33mWARNING[0m):
+> Connection dropped
+07/31/2025 21:25:23 [Client.Client] ([32mINFO[0m):
+> Closing output stream
+07/31/2025 21:25:23 [Client.Client] ([32mINFO[0m):
+> Closing input stream
+07/31/2025 21:25:23 [Client.Client] ([32mINFO[0m):
+> Closing connection
+07/31/2025 21:25:23 [Client.Client] ([32mINFO[0m):
+> Closed Socket
+07/31/2025 21:25:23 [Client.Client] ([32mINFO[0m):
+> listenToServer thread stopped
+08/02/2025 17:46:47 [Client.Client] ([33mWARNING[0m):
+> Not connected to server (hint: type `/connect host:port` without the quotes and replace host/port with the necessary info)
+08/02/2025 17:47:00 [Client.Client] ([32mINFO[0m):
+> Client connected
+08/02/2025 17:47:00 [Client.Client] ([33mWARNING[0m):
+> [0;33mClient ID already set, this shouldn't happen[0m
+08/02/2025 17:47:00 [Client.Client] ([32mINFO[0m):
+> [0;32mConnected[0m
+08/02/2025 17:47:00 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] You joined the room[0m
+08/02/2025 18:17:30 [Client.Client] ([32mINFO[0m):
+> [0;34mal#54: h[0m
+08/02/2025 18:27:45 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] garry#55 joined the room[0m
+08/02/2025 18:35:11 [Client.Client] ([32mINFO[0m):
+> [0;34mgarry#55: [0m
+08/02/2025 18:35:13 [Client.Client] ([32mINFO[0m):
+> [0;34mgarry#55: f[0m
+08/02/2025 18:35:57 [Client.Client] ([32mINFO[0m):
+> [0;34mgarry#55: Sending READY payload to server[0m
+08/02/2025 18:36:26 [Client.Client] ([32mINFO[0m):
+> [0;34mgarry#55: Payload type: READY[0m
+08/02/2025 18:58:51 [Client.Client] ([32mINFO[0m):
+> [0;34mgarry#55: Alice (u01) - Points: 100                       Bob (u[0m
+08/02/2025 18:58:55 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby]: garry#55 disconnected[0m
+08/02/2025 18:59:28 [Client.Client] ([32mINFO[0m):
+> [0;34mal#54: [0m
+08/02/2025 18:59:34 [Client.Client] ([32mINFO[0m):
+> [0;34mal#54: /end[0m
+08/02/2025 19:00:02 [Client.Client] ([32mINFO[0m):
+> [0;34mal#54: System.exit()[0m
+08/02/2025 19:00:03 [Client.Client] ([32mINFO[0m):
+> [0;34mal#54: [0m
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing output stream
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing input stream
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing connection
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closed Socket
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Client terminated
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing output stream
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> listenToInput thread stopped
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing input stream
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closing connection
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> Closed Socket
+08/02/2025 19:00:15 [Client.Client] ([32mINFO[0m):
+> listenToServer thread stopped
+08/02/2025 19:04:05 [Client.Client] ([32mINFO[0m):
+> Client Created
+08/02/2025 19:04:05 [Client.Client] ([32mINFO[0m):
+> Client starting
+08/02/2025 19:04:05 [Client.Client] ([32mINFO[0m):
+> Waiting for input
+08/02/2025 19:12:24 [Client.Client] ([32mINFO[0m):
+> [0;33mName set to alv[0m
+08/02/2025 19:12:31 [Client.Client] ([32mINFO[0m):
+> [0;33mName set to lar[0m
+08/02/2025 19:12:37 [Client.Client] ([32mINFO[0m):
+> [0;33mName set to berr[0m
+08/02/2025 19:12:44 [Client.Client] ([32mINFO[0m):
+> Client connected
+08/02/2025 19:12:44 [Client.Client] ([32mINFO[0m):
+> [0;32mConnected[0m
+08/02/2025 19:12:44 [Client.Client] ([32mINFO[0m):
+> [0;34mRoom[lobby] You joined the room[0m
+08/02/2025 19:12:59 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: Alice[0m
+08/02/2025 19:13:50 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: hi[0m
+08/02/2025 19:15:29 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (pending)                 Carol (u03) - Points 50 (Eliminated)[0m
+08/02/2025 19:17:40 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: Alice (u01) - Points: 100                        Bob (u02) - Points: 75 (Pending)                 Carol (u03) - Points: 75                         Dave (u04) - Points: 50 (Eliminated)[0m
+08/02/2025 20:24:06 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: Scores:                                          Alice (u01) - 100                                Bob (u02) - 75                                   Carol (u03) - 75                                 Dave (04) - 50[0m
+08/02/2025 22:11:01 [Client.Client] ([32mINFO[0m):
+> [0;34mberr#1: git add[0m
